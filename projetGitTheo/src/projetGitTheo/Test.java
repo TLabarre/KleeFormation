@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		System.out.println("Salut Git - v1");
+		System.out.println("la forme Git ? - v2");
 	}
 
 }
