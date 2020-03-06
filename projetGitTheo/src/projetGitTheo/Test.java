@@ -7,6 +7,7 @@ public class Test {
 
 		System.out.println("Salut Git - v1");
 		System.out.println("la forme Git ? - v2");
+		System.out.println("la forme Git ? - v3");
 	}
 
 }
